@@ -11,7 +11,5 @@ dependencies = [
     "langchain-openai>=0.3.32",
     "langchain-tavily>=0.2.11",
     "langsmith>=0.4.25",
-    "prompt>=0.4.1",
-    "schemas>=0.7.1",
     "streamlit>=1.49.1",
 ]
